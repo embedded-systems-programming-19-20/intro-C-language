@@ -1,2 +1,5 @@
 # intro-C-language
-Introduction to C Language
+
+* Datatype
+* Conditional Statement
+* Cycle
